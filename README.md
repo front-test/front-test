@@ -7,21 +7,22 @@
 
 ## Few Simple Requirements
 
-- Design should be recreated as closely as possible. (Final image is provided)
+- Design is provided as a refrence and it is not required to be replicated exactly.
+- There is no need to be pixel perfect or style exactly like the provided image.
 - Design must be responsive
 - Support all modern browsers.
-- Add a phone number field to the design
+- You are allowed to change the style but you should not omit any part of the design.
 - VueJS, AngularJS or ReactJS would be an advantage
 
-## Validations Requirements
+## Form Validations Requirements
 
 - Validate email address
 - Validate phone number to match domestic phone numbers.
-- Password shouls be at least 8 charachters and includes signs, numbers and letters.
-- 
+- Password should be at least 8 charachters and includes numbers and letters.
 
 ## Few tips
 
 - Structure!
+- Write Comments
 - Have fun!
 - Hosted DEMO would give some extra points
