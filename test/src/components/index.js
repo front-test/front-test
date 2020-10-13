@@ -1,0 +1,5 @@
+export * from './Navbar'
+export * from './Intro'
+export * from './Works'
+export * from './Team'
+export * from './Contacts'
